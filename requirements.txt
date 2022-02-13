@@ -1,0 +1,3 @@
+streamlit==1.5.1
+openai==0.14.0
+Pillow==8.4.0
