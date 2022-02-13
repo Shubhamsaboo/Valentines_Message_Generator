@@ -8,6 +8,11 @@
 
 ```
 
+### Application Interface 🕹️ 
+
+![alt text](artifact.png)
+
+
 ## 💥 Bringing up the application Locally
 🍴 Clone the `Valentines_Message_Generator` repository using the following command.
 
